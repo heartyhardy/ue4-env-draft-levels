@@ -74,9 +74,14 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Assets
-Content/*
-!Content/_Game/*
-!Content/Developers/*
+Content/GrassLandscape/*
+Content/Mannequin/*
+Content/Megascans/*
+Content/MSPresets/*
+Content/PhotoR_Backgrounds/*
+Content/PN_interactiveSpruceForest/*
+Content/STF/*
+Content/ThirdPerson/*
 
 # Publish
 Publish/*
